@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678229057663",
+    "project_id": "pg-and-tiffin",
+    "storage_bucket": "pg-and-tiffin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678229057663:android:3d751695193f29a13b9f4a",
+        "android_client_info": {
+          "package_name": "com.parul.pg_near_kuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678229057663-h61t315qebd0r6ek77rbg3pq3le4204t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsrh3t1W7Wufc4HzF8mDI8SzfyIy0A8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678229057663-h61t315qebd0r6ek77rbg3pq3le4204t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
